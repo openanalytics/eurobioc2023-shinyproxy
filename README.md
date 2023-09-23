@@ -2,7 +2,7 @@
 
 This repository contains the slides used during the BoF session `Shiny app deployment using ShinyProxy` at [EuroBioc 2023](https://eurobioc2023.bioconductor.org/).
 
-You can [view the slides online](https://shinyproxy.io/presentations/eurobioc2023.html) or download them as [html](slides.html) or [pdf](slides.pdf) (right-click and click "Save As").
+You can [view the slides online](https://shinyproxy.io/presentations/eurobioc2023.html) or download them as [html](https://raw.githubusercontent.com/openanalytics/eurobioc2023-shinyproxy/master/slides.html) or [pdf](https://raw.githubusercontent.com/openanalytics/eurobioc2023-shinyproxy/master/slides.pdf) (right-click and click "Save As").
 
 ## References
 
